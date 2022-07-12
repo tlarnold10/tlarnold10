@@ -27,6 +27,49 @@ Live in Lester, IA (town of 200 just outside of Sioux Falls, SD)
 
 Enjoy spending time with my 2 daughters and lifting weights. 
 
+# Management/Leadership Style: 
+
+## Quirks
+- Sarcastic
+- Will curse from time to time. If this is offense for you in any way, let me know
+- Will talk about ownership a lot
+- I am a religious person, but won't talk about it unless you feel comfortable
+- I listen to heavy metal, rap, classical, pop, and Christian music... I know, it makes no sense
+- Big fan of Jocko Willnk who is a Navy seal and very hard core
+- Can get visably annoyed or heated from time to time
+    - wear my emotions on my sleeve
+- Patience is certainly a weakness of mine
+- Move fairly quickly and need to slow down and look at the details from time to time
+
+## Leadership Style
+- I've got __ownership__, __focus__, and __expectations__ written on my whiteboard, so I'll tend to focus and talk about these things a lot
+- Hard conversations don't get better with time, if you need to talk about something that is not going to be fun, talk about it sooner rather than later.
+    - If you are struggling with something, please talk to me about it.
+- I want you to be successful on this team
+- Going to push people to get better, sometimes outside of their comfort zone
+- I don't like to micromanage, but will do it if someone is struggling
+- I trust you to get your work done in the time allocated (the sprint), I don't want to have to watch the clock for when you are in and out of the office. 
+- We are all grownups and I expect people to complete their work on a schedule that fits them best
+- I want people to be open and honest. However, people should have awareness that their is a time and a place for certain conversations
+
+## Expectations
+- We close out a majority of our tickets in the sprint
+    - communicate as soon as you know it isn't going to happen and/or roadblocks
+    - the exception to this rule would be support and implementations tickets in which we are blocked by forces outside of our direct control
+        - an example is working with a customer and we need access, which will rely on us working with support or implementations to get the access we need
+- PTO is added on your outlook calendar
+- Calendar is shared with manager
+- Respectful to the team, customers, and other departments, no jerks
+- We are flexible with when you come into and leave your laptop/desktop/office. However, make sure you communicate and set the right expectation with myself and the rest of the team
+- When you are assigned to a ticket, you own that ticket and it is your responsibility to see that the work is completed
+    - Focus on the acceptance criteria and solving the problem
+- Responses in Teams/slack are done in a timely manner, don't expect them to be immediate
+- Weekly 1:1s are not optional
+    - this is your time for us to talk about how things are going (professional or personnaly)
+    - I want you to be successful and this is your time to make you successful
+- Engaged during team meetings. I know they are long, but stay focused 
+- Understand your ticket before you start coding. You should be able to talk through a solution before you write a single line of code. You can even draw it out if that helps
+
 
 <!--
 **tlarnold10/tlarnold10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
