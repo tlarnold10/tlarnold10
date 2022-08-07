@@ -1,6 +1,10 @@
 # Hi there 👋
 
-My name is Trevor Arnold, software engineering manager who is passionate about build cool software that provides value to users.
+My name is Trevor Arnold, software engineering manager who is passionate about build cool software that provides value to users. 
+
+I like to lift heavy weights.
+
+Father to two girls and husband.
 
 
 Connect:
@@ -33,11 +37,11 @@ Enjoy spending time with my 2 daughters and lifting weights.
 
 ## Quirks
 - Sarcastic
-- Will curse from time to time. If this is offense for you in any way, let me know
-- Will talk about ownership a lot
+- Will curse from time to time
+- Very passionate about ownership and will bring it up fairly often
 - I am a religious person, but won't talk about it unless you feel comfortable
 - I listen to heavy metal, rap, classical, pop, and Christian music... I know, it makes no sense
-- Big fan of Jocko Willnk who is a Navy seal and very hard core
+- Big fan of Jocko Willnk who is a Navy seal and very intense
 - Can get visably annoyed or heated from time to time
     - wear my emotions on my sleeve
 - Patience is certainly a weakness of mine
