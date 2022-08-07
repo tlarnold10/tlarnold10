@@ -1,11 +1,6 @@
 # Hi there 👋
 
-My name is Trevor Arnold, software engineering manager who is passionate about build cool software that provides value to users. 
-
-I like to lift heavy weights.
-
-Father to two girls and husband.
-
+My name is Trevor Arnold, software engineering who is passionate about build cool software that provides value to users. 
 
 Connect:
 
@@ -28,12 +23,11 @@ Favored Editor:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
-⚡ Fun fact:
-
-Live in Lester, IA (town of 200 just outside of Sioux Falls, SD)
-
-Enjoy spending time with my 2 daughters and lifting weights. 
+## Fun Facts
+- Live in <a href="https://www.lesteriowa.com" target="_blank">Lester Iowa</a>, a small town just outside of Sioux Falls, SD. <a href="https://twitter.com/TrevorArnold9" target="_blank"></a>
+- Enjoy lifting heavy weights.
+- Father to two little girls and husband.
+- Software engineer at <a href="https://www.fti-net.com/" target="_blank">Frontier Technology Inc.</a>
 
 ## Quirks
 - Sarcastic
