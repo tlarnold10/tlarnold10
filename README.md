@@ -71,6 +71,17 @@ Favored Tools:
 - We are all grownups and I expect people to complete their work on a schedule that fits them best
 - I want people to be open and honest. However, people should have awareness that their is a time and a place for certain conversations
 
+## Personality
+
+I find personality assessments super interesting, though not perfectly accurate. 
+
+| ASSESSMENT              | RESULTS                                                       |
+| ----------------------- | ------------------------------------------------------------- |
+| Enneagram               | Type 3 (Wing 4)                                               |
+| Myers Briggs (MBTI)     | ENTJ (Extraverted, Intuitive, Thinking, Judging)              |
+| Strengths Finder        | Significance, Focus, Learner, Command, Self-Assurance         |
+| Strengths Finder        | Problem Solver, Catalyst, Strategist, Deliverer, Focus Expert |
+
 <!--
 **tlarnold10/tlarnold10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
