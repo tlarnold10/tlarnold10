@@ -48,6 +48,8 @@ Favored Tools:
 - Enjoy lifting heavy weights.
 - Father to two little girls and husband.
 - Software engineer at <a href="https://www.fti-net.com/" target="_blank">Frontier Technology Inc.</a>
+- Founder and software developer at <a href="https://arnoldtechnologies.dev/" target="_blank">Arnold Technologies</a>
+- Favorite music right now is the Game of Thrones soundtrack
 
 ## Quirks
 - Sarcastic
@@ -56,8 +58,7 @@ Favored Tools:
 - I am a religious person, but won't talk about it unless you feel comfortable
 - I listen to heavy metal, rap, classical, pop, and Christian music... I know, it makes no sense
 - Big fan of Jocko Willnk who is a Navy seal and very intense
-- Can get visably annoyed or heated from time to time
-    - wear my emotions on my sleeve
+- Wear my emotions on my sleeve, which means I can get passionate about certain things
 - Patience is certainly a weakness of mine
 - Move fairly quickly and need to slow down and look at the details from time to time
 
@@ -68,7 +69,7 @@ Favored Tools:
 - I want you to be successful on this team
 - Going to push people to get better, sometimes outside of their comfort zone
 - I don't like to micromanage, but will do it if someone is struggling
-- I trust you to get your work done in the time allocated (the sprint), I don't want to have to watch the clock for when you are in and out of the office. 
+- I trust you to get your work done in the time allocated, I don't want to have to watch the clock for when you are in and out of the office. 
 - We are all grownups and I expect people to complete their work on a schedule that fits them best
 - I want people to be open and honest. However, people should have awareness that their is a time and a place for certain conversations
 
@@ -81,7 +82,7 @@ I find personality assessments super interesting, though not perfectly accurate.
 | Enneagram               | Type 3 (Wing 4)                                               |
 | Myers Briggs (MBTI)     | ENTJ (Extraverted, Intuitive, Thinking, Judging)              |
 | Strengths Finder        | Significance, Focus, Learner, Command, Self-Assurance         |
-| Strengths Finder        | Problem Solver, Catalyst, Strategist, Deliverer, Focus Expert |
+| High5 Strengths         | Problem Solver, Catalyst, Strategist, Deliverer, Focus Expert |
 
 <!--
 **tlarnold10/tlarnold10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
