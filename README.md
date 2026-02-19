@@ -85,6 +85,7 @@ I find personality assessments super interesting, though not perfectly accurate.
 | High5 Strengths         | Problem Solver, Catalyst, Strategist, Deliverer, Focus Expert |
 | Working Genius          | Invention and Tenacity                                        |
 | Spiritual gifts         | Craftsmanship, Faith, Giving, Administration, Exhortation     |
+| Stand Out               | Advisor and Influencer                                        |
 
 <!--
 **tlarnold10/tlarnold10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
