@@ -78,15 +78,15 @@ Favored Tools:
 
 I find personality assessments super interesting, though not perfectly accurate. 
 
-| ASSESSMENT              | RESULTS                                                       |
-| ----------------------- | ------------------------------------------------------------- |
-| Enneagram               | Type 3 (Wing 4)                                               |
-| Myers Briggs (MBTI)     | ENTJ (Extraverted, Intuitive, Thinking, Judging)              |
-| Strengths Finder        | Significance, Focus, Learner, Command, Self-Assurance         |
-| High5 Strengths         | Problem Solver, Catalyst, Strategist, Deliverer, Focus Expert |
-| Working Genius          | Invention and Tenacity                                        |
-| Spiritual gifts         | Craftsmanship, Faith, Giving, Administration, Exhortation     |
-| Stand Out               | Advisor and Influencer                                        |
+| ASSESSMENT              | RESULTS                                                                                              |
+| ----------------------- | ---------------------------------------------------------------------------------------------------- |
+| Enneagram               | Type 3 (Wing 4)                                                                                      |
+| Myers Briggs (MBTI)     | INTJ (Introverted, Intuitive, Thinking, Judging) or ENTJ (Extraverted, Intuitive, Thinking, Judging) |
+| Strengths Finder        | Significance, Focus, Learner, Command, Self-Assurance                                                |
+| High5 Strengths         | Problem Solver, Catalyst, Strategist, Deliverer, Focus Expert                                        |
+| Working Genius          | Invention and Tenacity                                                                               |
+| Spiritual gifts         | Craftsmanship, Faith, Giving, Administration, Exhortation                                            |
+| Stand Out               | Advisor and Influencer                                                                               |
 
 <!--
 **tlarnold10/tlarnold10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
